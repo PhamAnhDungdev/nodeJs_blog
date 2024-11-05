@@ -1,0 +1,30 @@
+{
+  "name": "blog_f8",
+  "version": "1.0.0",
+  "description": "back-end blog_f8",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --inspect app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamAnhDungdev/nodeJs_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs",
+    "first",
+    "code"
+  ],
+  "author": "dungpahe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamAnhDungdev/nodeJs_blog/issues"
+  },
+  "homepage": "https://github.com/PhamAnhDungdev/nodeJs_blog#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
